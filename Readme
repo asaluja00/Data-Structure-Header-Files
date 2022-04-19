@@ -1,0 +1,7 @@
+This is a C++  header fie for Trees operations like 
+a. Creating a Tree 
+b. Traversing a tree in Pre Order 
+c. Traversing a tree in post Order
+d.Traversing a tree in level order
+e.Traversing a tree in in order 
+f.Implementation of Queue and stack functions 
